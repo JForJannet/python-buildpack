@@ -1,5 +1,5 @@
 [buildpack]
-name = "Python"
+name = "Python3"
 
 [publish.Ignore]
 files = [
